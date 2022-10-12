@@ -1,4 +1,4 @@
-#####Application Readme file
+##### APPLICATION README FILE
 - I have developed the solution in C# console application and attached the program .exe solution with the source code in google drive. Google drive link available in the email.
 - You can simply run the .exe solution file to execute the program.
 - THE PROGRAM WILL CREATE FOLDER IN C DRIVE IF NOT EXIST BY DEFAULT NAMED AS "SearchKeyword"
@@ -15,7 +15,7 @@
 - The program can search input with a-z, A-Z, 0-9, and apostrophe.
 
 
-BONUS FEATURES:
+##### BONUS FEATURES:
 - Security measures should be like protecting the directories from write features or to avoid unrestricted access
 - This can be converted to RestAPI using Laravel jobs features or Azure Web Service.
 - For monitoring, I can convert this application to windows service and we can log different activities to Window Event Log that can be view using Event Viewer app
